@@ -1,4 +1,4 @@
-package Programmers.stack;
+package Programmers;
 
 import java.util.LinkedList;
 import java.util.Queue;
